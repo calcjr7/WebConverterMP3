@@ -1,0 +1,5 @@
+This Converter converts URLs to mp3 files.
+
+To run this you need ffmpeg, yt-dlp, deno, yt-dlp-ejs.
+
+Copy the URL in the terminal and output is generating.
