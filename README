@@ -1,5 +1,23 @@
-This Converter converts URLs to mp3 files.
+This Converter converts URLs to mp3 files. ONLY FOR PERSONAL USE!
 
-To run this you need ffmpeg, yt-dlp, deno, yt-dlp-ejs.
+Dependencies:
+You need to install:
+    - FFMPEG
+    - yt-dlp
+    - yt-dlp-ejs
+    - external java script runtime (The script was tested on Deno)
 
-Copy the URL in the terminal and output is generating.
+    More information on following sites:
+    https://github.com/yt-dlp/ejs
+    https://github.com/yt-dlp/yt-dlp
+    https://github.com/denoland/deno
+    https://ffmpeg.org/
+
+
+
+
+HOW TO USE:
+1. Change the output_dir
+2. Change the path from ffmpeg_location and ffprobe_location
+3. Run the code and copy URLs into
+4. Check the output_dir
